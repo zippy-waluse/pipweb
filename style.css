@@ -1,0 +1,72 @@
+#head{
+   display: flex; 
+   gap: 50%;
+   background-color: palevioletred;
+   color: white;
+}
+
+#navbar{
+   margin-left: 70%;
+   background-color: black;
+   width: 30%;
+}
+
+#image1{
+    display: flex;
+    gap: 20%;
+}
+
+#para1{
+    font-weight: 600;
+    font-size: x-large;
+}
+
+#but1{
+    background-color: palevioletred;
+    margin-left: 5%;
+    height: 10%;
+}
+
+#texts{
+    display: flex;
+    gap: 7%;
+    margin-left: 5%;
+}
+
+#colm1{
+    display: flex;
+    gap: 10%;
+    margin-left: 5%;
+}
+
+#ojuice{
+    height: 60%;
+}
+
+#colm2{
+    display: flex;
+    gap: 10%;
+    margin-left: 5%;
+}
+
+#Ntext{
+    text-align: center;
+    margin-right: 10%;
+}
+
+#Ttext{
+    text-align: center;
+    margin-right: 10%;
+}
+
+#icon1{
+    margin-left: 45%;
+}
+
+#juicy1{
+    display: flex;
+    gap: 10%;
+    /* margin-left: 20%;  */
+    background-color: olivedrab;
+}
+
