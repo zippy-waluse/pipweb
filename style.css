@@ -52,11 +52,13 @@
 #Ntext{
     text-align: center;
     margin-right: 10%;
+    font-size: x-large;
 }
 
 #Ttext{
     text-align: center;
     margin-right: 10%;
+    font-size: x-large;
 }
 
 #icon1{
@@ -66,7 +68,44 @@
 #juicy1{
     display: flex;
     gap: 10%;
-    /* margin-left: 20%;  */
+    margin-left: 20%;  
     background-color: olivedrab;
 }
 
+#J2{
+    display: flex;
+    gap: 10%;
+    margin-left: 5%;
+}
+
+#oj3{
+    display: flex;
+    gap: 13%;
+    margin-left: 5%;
+
+}
+
+#Trendtext{
+    text-align: center;
+    font-size: x-large;
+}
+
+#feat{
+    text-align: center;
+    font-size: x-large;
+}
+
+#foot{
+    display: flex;gap: 10%;
+}
+
+#f1{
+    list-style: none;
+}
+
+#f2{
+    list-style: none;
+}
+#f3{
+    list-style: none;
+}
