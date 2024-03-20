@@ -109,3 +109,57 @@
 #f3{
     list-style: none;
 }
+
+
+
+@media screen and (min-width: 375px) and (max-width: 939px){
+
+    #navbar{
+        
+        background-color: white;
+        display: grid;
+        margin-left: 8%;
+     }
+
+     #image1{
+        flex-wrap: wrap;
+     }
+
+     #pic1{
+        width: 80%;
+     }
+
+     #colm1{
+        flex-wrap: wrap;
+     }
+
+     #colm2{
+        flex-wrap: wrap;
+     }
+
+     #juicy1{
+        flex-wrap: wrap;
+        margin-left: 3%;
+        width: 55%;
+     }
+
+     #J2{
+        flex-wrap: wrap;
+     }
+
+     #oj3{
+        flex-wrap: wrap;
+     }
+
+     #foot{
+        flex-wrap: wrap;
+     }
+
+     #texts{
+        flex-wrap: wrap;
+     }
+
+     #head{
+        width: 90%;
+     }
+}
