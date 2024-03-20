@@ -107,11 +107,22 @@
     list-style: none;
 }
 #f3{
-    list-style: none;
+    list-style: none;}
+
+
+#bdy{
+    background-color: palevioletred;
 }
 
+#img1{
+    display: flex;
+    gap: 10%;
+}
 
-
+#img2{
+    display: flex;
+    gap: 10%;
+}
 @media screen and (min-width: 375px) and (max-width: 939px){
 
     #navbar{
