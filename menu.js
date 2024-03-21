@@ -31,8 +31,12 @@ const menu = {
  ],
 };
 
+// console.log(menu)
 
 
+var name = prompt("What do you want?");
+
+println = ("Hello " + "what will you take" + "!");
 
 
 // function myFunction(){
