@@ -123,6 +123,26 @@
     display: flex;
     gap: 10%;
 }
+
+
+
+.prev{
+    font-size: 50%;
+    cursor: pointer;
+    color: purple;
+    position: absolute;
+}
+
+.next{
+    font-size: 50%;
+    cursor: pointer;
+    color: palevioletred;
+}
+
+
+.prev:hover, .next:hover{
+   color: purple;
+}
 @media screen and (min-width: 375px) and (max-width: 939px){
 
     #navbar{
