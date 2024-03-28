@@ -1,6 +1,6 @@
 
 
-var drink = prompt("What is your choice of drink")
+// var drink = prompt("What is your choice of drink")
 
 const menu = {
     juice: [
@@ -38,13 +38,22 @@ var name = prompt("What do you want?");
 
 println = ("Hello " + "what will you take" + "!");
 
+const filterInputName = (juice) => {
+   if (juice === "") {
+      juices([])
+   }
+};
 
-// function myFunction(){
-//     let customer = prompt("Please enter drink of choice", "person")
-//     if (person !=null){
-       
-//     }
-//  }
+// const searchjuice = [];
+// const input = juice.toLoweCase();
+// for (const juice of juices){
+
+for (const juice of juices)
+if (
+   [...drink].includes (juice)
+){
+    juices.push(juice);
+}
+juices(juices);
 
 
-// console.log(menu)//
