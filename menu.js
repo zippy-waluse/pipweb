@@ -38,8 +38,8 @@ var name = prompt("What do you want?");
 
 println = ("Hello " + "what will you take" + "!");
 
-const filterInputName = (juice) => {
-   if (juice === "") {
+const filterInputName = (menu) => {
+   if (menu === "") {
       juices([])
    }
 };
@@ -48,12 +48,12 @@ const filterInputName = (juice) => {
 // const input = juice.toLoweCase();
 // for (const juice of juices){
 
-for (const juice of juices)
+for (const menu of menues)
 if (
-   [...drink].includes (juice)
+   [...drink].includes (menu)
 ){
-    juices.push(juice);
+    juices.push(menu);
 }
-juices(juices);
+juices(menues);
 
 
